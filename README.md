@@ -9,6 +9,8 @@
 
 <h3>Things I code with</h3>
 <p>
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-css-CC6699?style=flat-square&logo=css&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/static/v1?message=css3&logo=css3&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic
