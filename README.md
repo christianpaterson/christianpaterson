@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there! </h1>
 
-<p>Welcome to my page! </br> I'm Casey, a Front-end developer from <img src="![image](https://user-images.githubusercontent.com/88216297/178795429-b0bc5fd9-bc58-4c25-a722-04c0b5601c3b.png)" width="13"/> <b>Los Angeles</p>
+<p>Welcome to my page! </br> I'm Casey, Front-end and Shopify developer from <img src="https://www.flaticon.com/free-icon/california_321218" width="13"/> <b>Los Angeles</p>
 
 - 🔭 I’m currently working on building Shopify stores
 - 🌱 I’m currently learning JavaScript & Python
