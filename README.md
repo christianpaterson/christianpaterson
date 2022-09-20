@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there! </h1>
 
-<p>Welcome to my page! </br> I'm a Front-end developer from Los Angeles</p>
+<p>Welcome to my page, I'm a Front-end developer from Los Angeles</p>
 
 - 🔭 I’m currently working on building Shopify stores
 - 🌱 I’m currently learning JavaScript & Python
