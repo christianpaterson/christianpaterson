@@ -7,7 +7,7 @@
 - 💬 Ask me about Shopify store setups
 - 📫 How to reach me: cpaterson@gmail.com
 
-<h3>Things I code with</h3>
+<h3>Things I code with: </h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-css3-CC6699?style=flat-square&logo=css3&logoColor=white" />
