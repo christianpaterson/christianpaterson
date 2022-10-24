@@ -1,9 +1,9 @@
-<h1><img src="https://user-images.githubusercontent.com/88216297/197447547-06acf626-6045-4d28-bfb7-7dc4660a5781.gif" width="30"/> Hello ! </h1>
+<h1><img src="https://user-images.githubusercontent.com/88216297/197447547-06acf626-6045-4d28-bfb7-7dc4660a5781.gif" width="30"/> Ahoy! </h1>
 
 
 <p>Welcome to my page, I'm a Front-end developer from Los Angeles</p>
 
-- 🔭 I’m currently working on building Shopify stores
+- 🔭 I’m currently building Shopify stores
 - 🌱 I’m currently learning JavaScript & Python
 - 💬 Ask me about Shopify store setups
 - 📫 How to reach me: cpaterson@gmail.com
