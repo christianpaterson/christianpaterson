@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there! </h1>
+<h1><img src="https://slackmojis.com/emojis/3963-pirate" width="30"/> Hi there! </h1>
 
 <p>Welcome to my page, I'm a Front-end developer from Los Angeles</p>
 
