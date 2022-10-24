@@ -1,4 +1,5 @@
-<h1><img src="https://slackmojis.com/emojis/3963-pirate" width="30"/> Hi there! </h1>
+<h1><img src="https://user-images.githubusercontent.com/88216297/197447547-06acf626-6045-4d28-bfb7-7dc4660a5781.gif" width="30"/> Hello ! </h1>
+
 
 <p>Welcome to my page, I'm a Front-end developer from Los Angeles</p>
 
