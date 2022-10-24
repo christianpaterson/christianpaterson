@@ -4,7 +4,7 @@
 <p>Welcome to my page, I'm a Front-end developer from Los Angeles</p>
 
 - 🔭 I’m currently building Shopify stores
-- 🌱 I’m currently learning JavaScript & Python
+- 🌱 I’m learning JavaScript & Python
 - 💬 Ask me about Shopify store setups
 - 📫 How to reach me: cpaterson@gmail.com
 
