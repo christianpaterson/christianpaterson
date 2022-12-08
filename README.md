@@ -1,7 +1,9 @@
 <h1><img src="https://user-images.githubusercontent.com/88216297/197447547-06acf626-6045-4d28-bfb7-7dc4660a5781.gif" width="30"/> Ahoy! </h1>
 
 
-<p>Welcome to my page, I'm a Front-end developer from Los Angeles</p>
+<p>Welcome to my page, how rare and special that you have found me!!</p>
+
+<p>I'm a Front-end developer from Los Angeles</p>
 
 - 🔭 I’m currently building Shopify stores
 - 🌱 I’m learning JavaScript & Python
