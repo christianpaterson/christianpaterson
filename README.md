@@ -30,6 +30,7 @@
   <p>
     <i class="fa-brands fa-java"></i>
     <i class="devicon-java-plain"></i>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
