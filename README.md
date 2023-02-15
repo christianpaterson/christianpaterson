@@ -1,9 +1,21 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+    <title>Document</title>
+</head>
+<body>
+  
 <h1><img src="https://user-images.githubusercontent.com/88216297/197447547-06acf626-6045-4d28-bfb7-7dc4660a5781.gif" width="30"/> Ahoy! </h1>
-
-
-<p>Welcome to my page :) How rare and special that you have found me!!</p>
+    
+  <p>Welcome to my page :) How rare and special that you have found me!!</p>
 
 <p>I'm a JavaScript and Java developer from Los Angeles</p>
 
@@ -24,3 +36,6 @@
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
   </p>
 </p>
+  
+</body>
+</html>
