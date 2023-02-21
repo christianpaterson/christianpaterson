@@ -4,11 +4,11 @@
 
 <p>I'm a JavaScript and Java developer from Los Angeles</p>
 
-- 🔭 I’m currently building Shopify stores
 - 🌳 I have been using HTML, CSS, and Javascript for 2 years
 - 🌱 I am currently learning Java, Python, and Advanced Data Structures
+- 🔭 I’m currently building Shopify stores
 - 💬 Ask me about Shopify store setups
-- 📫 How to reach me: cpaterson@gmail.com
+- 📫 How to reach me: cpaterson152@gmail.com
 
 <h3>Things I code with: </h3>
 <p>
