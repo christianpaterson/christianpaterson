@@ -5,7 +5,8 @@
 <p>I'm a JavaScript and Java developer from Los Angeles</p>
 
 - 🔭 I’m currently building Shopify stores
-- 🌱 I’m learning JavaScript & Python
+- 🌳 I have been using HTML, CSS, and Javascript for 2 years
+- 🌱 I am currently learning Java, Python, and Advanced Data Structures
 - 💬 Ask me about Shopify store setups
 - 📫 How to reach me: cpaterson@gmail.com
 
