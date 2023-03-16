@@ -1,6 +1,6 @@
 <h1><img src="https://user-images.githubusercontent.com/88216297/197447547-06acf626-6045-4d28-bfb7-7dc4660a5781.gif" width="30"/> Ahoy! </h1>
 
-<p>Welcome aboard :) How rare and special that you have found me!!</p>
+<p>Welcome aboard :) How rare and special that you have found me!! </p>
 
 <p>I'm a JavaScript and Java developer from Los Angeles</p>
 <p>I am currrently working on my masters from CSU Long Beach</p>
