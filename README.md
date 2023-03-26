@@ -7,8 +7,8 @@
 
 - 🌳 I have been using HTML, CSS, and Javascript for 2 years
 - 🌱 I am currently learning Java, Python, and Advanced Data Structures
-- 🔭 I’m currently building Shopify stores
-- 💬 Ask me about Shopify store setups
+- 🔭 I’m also currently building Shopify stores
+- 💬 Ask me about Shopify store setups. I can help!
 - 📫 How to reach me: cpaterson152@gmail.com
 
 <h3>Things I code with: </h3>
