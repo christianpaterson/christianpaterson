@@ -5,7 +5,7 @@
 <p>I'm a JavaScript and Java developer from Los Angeles</p>
 <p>I am currrently working on my masters from CSU Long Beach</p>
 
-- 🌳 I have been using HTML, CSS, and Javascript for 2 years
+- 🌳 I have been using HTML, CSS, and Javascript for 2 years :)
 - 🌱 I am currently learning Java, Python, and Advanced Data Structures
 - 🔭 I’m also currently building Shopify stores
 - 💬 Ask me about Shopify store setups. I can help!
