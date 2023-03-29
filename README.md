@@ -2,8 +2,8 @@
 
 <p>Welcome aboard :) How rare and special that you have found me!!!</p>
 
-<p>I'm a JavaScript and Java developer from Los Angeles</p>
-<p>I am currrently working on my masters from CSU Long Beach</p>
+<p>I'm a JavaScript and Java developer from Los Angeles currently pursuing my master's in Software Engineering</p>
+<p>I am self-taught originally, and have mastered the following even before my schooling:</p>
 
 - 🌳 I have been using HTML, CSS, and Javascript for 2 years :)
 - 🌱 I am currently learning Java, Python, and Advanced Data Structures
