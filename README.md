@@ -3,6 +3,8 @@
 <p>Welcome aboard :) How rare and special that you have found me!!</p>
 
 <p>I'm a Java and JavaScript developer from Los Angeles with an associates in computer science</p>
+<p>I am also getting my masters in Structural Engineering from Cal State Northridge<p>
+<p>I code and think about building safety all day long :D<p>
 <p>I am self-taught originally, and I mastered the following even before my schooling:</p>
 
 - 🌳 I have been using HTML, CSS, and Javascript for 2 years :)
