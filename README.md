@@ -6,7 +6,7 @@
 <p>I am self-taught originally, and I mastered the following even before my schooling:</p>
 
 - 🌳 I have been using HTML, CSS, and Javascript for 2 years :)
-- 🌱 I am currently learning Python, and brushing up on my advanced Data Structures
+- 🌱 I am currently learning Python and C
 - 🔭 I’m also currently building Shopify stores
 - 💬 Ask me about Shopify store setups. I can help!
 - 📫 How to reach me: cpaterson152@gmail.com
