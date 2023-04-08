@@ -24,4 +24,4 @@
   </p>
 </p>
 
-<p> Fun Fact!   I am also getting my masters in Structural Engineering from Cal State Northridge...    I code and think about building safety all day long :D<p>
+<p> Fun Fact! I often feel confused about what to do with my life :D<p>
