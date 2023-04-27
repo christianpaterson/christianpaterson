@@ -25,4 +25,4 @@
 </p>
 
 <p> Fun Fact! I often feel confused about what to do with my life :D</p>
-<p> One thing I can assure you is I am a true life-long learner! </p>
+<p> One thing I can assure you is that I am a true life-long learner! </p>
