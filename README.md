@@ -5,7 +5,7 @@
 <p>I'm a Java and JavaScript developer from Los Angeles with an Associate Degree in Computer Science.</p>
 <p>I am self-taught originally, and I mastered the following even before my schooling:</p>
 
-- 🌳 I have been using HTML, CSS, and Javascript for 6 months :)
+- 🌳 I have been using HTML, CSS, and Javascript for 1 year+ :)
 - 🌱 I am currently learning Python and C
 - 🔭 I’m also currently building Shopify stores
 - 💬 Ask me about Shopify store setups. I can help!
