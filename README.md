@@ -7,8 +7,6 @@
 
 - 🌳 I have been using HTML, CSS, and Javascript for over 1 year :)
 - 🌱 I am currently learning Python and C
-- 🔭 I’m also currently building Shopify stores
-- 💬 Ask me about Shopify store setups. I can help!
 - 📫 How to reach me: cpaterson152@gmail.com
 
 <h3>Things I code with: </h3>
@@ -23,6 +21,3 @@
     <img alt="css3" src="https://img.shields.io/badge/-css3-CC6699?style=flat-square&logo=css3&logoColor=white" />
   </p>
 </p>
-
-<p> Fun Fact! I often feel confused about what to do with my life :D</p>
-<p> One thing I can assure you is that I am a true life-long learner! </p>
