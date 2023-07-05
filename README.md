@@ -4,8 +4,7 @@
 <p>I am self-taught originally, and I mastered the following even before my schooling:</p>
 
 - 🌳 I have been using HTML, CSS, and Javascript for over 1 year
-- 🌿 I have been using Java and Python for 6 months
-- 🌱 I am currently learning C 
+- 🌱 I also use Java, Python, and C++
 - 📫 How to reach me: cpaterson152@gmail.com
 
 <h3>Things I code with: </h3>
