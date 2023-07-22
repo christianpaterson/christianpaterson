@@ -1,10 +1,9 @@
 <h1><img src="https://user-images.githubusercontent.com/88216297/197447547-06acf626-6045-4d28-bfb7-7dc4660a5781.gif" width="30"/> Ahoy! </h1>
 
-<p>Welcome aboard :) I'm an LA-based software developer with an Associate Degree in Computer Science.</p>
-<p>I am self-taught originally, and I mastered the following even before my schooling:</p>
+<p>Welcome aboard :) I'm a passionate software developer with an Associate Degree in Computer Science.</p>
 
-- 🌳 I have been using HTML, CSS, and Javascript for over 1 year
-- 🌱 I also use Java, Python, and C++
+- 🌳 I use HTML, CSS, Javascript, and React everyday for
+- 🌱 I have a deep understanding of Java, Python, and C++
 - 📫 How to reach me: cpaterson152@gmail.com
 
 <h3>Things I code with: </h3>
