@@ -2,8 +2,8 @@
 
 <p>Welcome aboard :) I'm a passionate software developer with an Associate Degree in Computer Science.</p>
 
-- 🌳 I use HTML, CSS, Javascript, and React everyday for
-- 🌱 I have a deep understanding of Java, Python, and C++
+- 🌳 I use HTML, CSS, Javascript, and React everyday
+- 🌱 I also have a deep love and understanding of Java, Python, and C++
 - 📫 How to reach me: cpaterson152@gmail.com
 
 <h3>Things I code with: </h3>
