@@ -1,6 +1,6 @@
 <h1><img src="https://user-images.githubusercontent.com/88216297/197447547-06acf626-6045-4d28-bfb7-7dc4660a5781.gif" width="30"/> Ahoy! </h1>
 
-<p>Welcome aboard :) I'm a passionate software developer with an Associate Degree in Computer Science.</p>
+<p>Welcome aboard :) I'm a passionate software developer with a Degree in Computer Science.</p>
 
 - 🌳 I use HTML, CSS, Javascript, and React everyday
 - 🌱 I also have a deep love and understanding of Java, Python, and C++
