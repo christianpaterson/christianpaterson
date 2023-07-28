@@ -4,7 +4,7 @@
 
 - 🌳 I use HTML, CSS, Javascript, and React everyday
 - 🌱 I also have a deep love and understanding of Java, Python, and C++
-- 🌱 I'm currently learning SQL and TypeScript!
+- 🌱 I'm currently learning SQL and TypeScript
 - 📫 How to reach me: cpaterson152@gmail.com
 
 <h3>Things I code with: </h3>
