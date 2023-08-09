@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/88216297/197447547-06acf626-6045-4d28-bfb7-7dc4660a5781.gif" width="30"/> Welcome aboard :)
+# <img src="https://user-images.githubusercontent.com/88216297/197447547-06acf626-6045-4d28-bfb7-7dc4660a5781.gif" width="30"/> Welcome aboard
 
 I'm a passionate software developer with a Degree in Computer Science.
 
