@@ -5,7 +5,7 @@ I'm a passionate software developer with a Degree in Computer Science.
 - 🌳 I use HTML, CSS, Javascript, and React everyday
 - 🌱 I also have a deep love and understanding of Java, Python, and C++
 - 🌱 I'm currently learning SQL, Next.js, and TypeScript
-- 📫 How to reach me: cpaterson152@gmail.com
+- 📫 How to reach me: info@chrispaterson.dev
 
 <h3>Things I code with: </h3>
 <p>
